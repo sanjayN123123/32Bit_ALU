@@ -176,9 +176,11 @@ Steps for simulation – Run the simulation command with simulator options
 ## Fig 9: Design Browser window for simulation
 
 ## Fig 10:Simulation Waveform Window
+![exp3 output pdvlsi](https://github.com/user-attachments/assets/bc4911d5-0f13-4697-a335-bd634e68ae41)
 
 ## Fig 11:Simulation Waveform Window
 
+![pdvlsi exp3](https://github.com/user-attachments/assets/d3be4729-2e05-44b3-81bb-40cd724f7749)
 
 
 
